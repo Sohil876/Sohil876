@@ -12,27 +12,43 @@
 </p>
 
 <p>
-  <a href="https://github.com/Sohil876">
-    <img alt="Linux" width="26px" src="img/linux.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Android" width="26px" src="img/android.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Terminal" width="26px" src="img/terminal.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/topics/linux">
+    <img alt="Linux" width="26px" src="img/linux.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/topics/android">
+    <img alt="Android" width="26px" src="img/android.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/topics/terminal">
+    <img alt="Terminal" width="26px" src="img/terminal.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/topics/git">
     <img alt="Git" width="26px" src="img/git.png" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/Sohil876">
-    <img alt="Bash" width="26px" src="img/bash.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Python" width="26px" src="img/python.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/topics/bash">
+    <img alt="Bash" width="26px" src="img/bash.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/topics/python3">
+    <img alt="Python3" width="26px" src="img/python.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/topics/lua">
     <img alt="Lua" width="26px" src="img/lua.png" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/Sohil876">
-    <img alt="HTML" width="26px" src="img/html.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="CSS" width="26px" src="img/css.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="JavaScript" width="26px" src="img/js.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/topics/html">
+    <img alt="HTML" width="26px" src="img/html.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/topics/css">
+    <img alt="CSS" width="26px" src="img/css.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/topics/javascript">
+    <img alt="JavaScript" width="26px" src="img/js.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/topics/react-native">
     <img alt="ReactNative" width="26px" src="img/react-native.png" />
   </a>
 </p>
