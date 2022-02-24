@@ -3,9 +3,6 @@
 -->
 
 <p>
-  <a href ="https://github.com/Sohil876">
-    <img alt="GitHub" src="https://img.shields.io/badge/-Github-FFFFFF?style=social&logo=Github&logoColor=black" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://gitlab.com/Sohil876">
     <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-FFFFFF?style=social&logo=Gitlab&logoColor=black" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
