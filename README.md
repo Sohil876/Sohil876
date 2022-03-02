@@ -11,7 +11,9 @@
   </a>
 </p>
 
-<p>
+##
+
+* <p>
   <a href="https://github.com/topics/linux">
     <img alt="Linux" width="26px" src="img/linux.png" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,7 +28,7 @@
   </a>
 </p>
 
-<p>
+* <p>
   <a href="https://github.com/topics/bash">
     <img alt="Bash" width="26px" src="img/bash.png" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,7 +40,7 @@
   </a>
 </p>
 
-<p>
+* <p>
   <a href="https://github.com/topics/html">
     <img alt="HTML" width="26px" src="img/html.png" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
