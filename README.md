@@ -1,5 +1,10 @@
 <!--
 **Sohil876/Sohil876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
+  <a href="https://github.com/topics/lua">
+    <img alt="Lua" width="26px" src="img/lua.png" />
+  </a>
+###
 -->
 
 <p>
@@ -22,9 +27,6 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/topics/terminal">
     <img alt="Terminal" width="26px" src="img/terminal.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/topics/git">
-    <img alt="Git" width="26px" src="img/git.png" />
   </a>
 </p>
 
@@ -34,9 +36,15 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/topics/python3">
     <img alt="Python3" width="26px" src="img/python.png" />
+  </a>
+</p>
+
+* <p>
+  <a href="https://github.com/topics/git">
+    <img alt="Git" width="26px" src="img/git.png" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/topics/lua">
-    <img alt="Lua" width="26px" src="img/lua.png" />
+  <a href="https://github.com/topics/node">
+    <img alt="NodeJS" width="26px" src="img/nodejs.png" />
   </a>
 </p>
 
@@ -49,9 +57,15 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/topics/javascript">
     <img alt="JavaScript" width="26px" src="img/js.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+</p>
+
+* <p>
   <a href="https://github.com/topics/react-native">
     <img alt="ReactNative" width="26px" src="img/react-native.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/topics/next">
+    <img alt="NextJS" width="26px" src="img/nextjs.png" />
   </a>
 </p>
 
@@ -59,7 +73,7 @@
   <summary>:zap: GitHub Stats</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sohil876&show_icons=true&hide_border=true&count_private=true&hide_rank=true&disable_animations=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohil876&show_icons=true&hide_border=true&langs_count=6&disable_animations=true&layout=compact&hide=forth,groff,m4,makefile,assembly,c,c%2B%2B,objective-c,php&card_width=280&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohil876&show_icons=true&hide_border=true&langs_count=4&disable_animations=true&layout=compact&hide=forth,groff,m4,makefile,assembly,c,c%2B%2B,objective-c,php,lua&card_width=280&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
     </a>
 </details>
 
