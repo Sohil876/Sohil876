@@ -24,27 +24,27 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/topics/android">
     <img alt="Android" width="26px" src="img/android.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/topics/terminal">
-    <img alt="Terminal" width="26px" src="img/terminal.png" />
   </a>
 </p>
 
 * <p>
+  <a href="https://github.com/topics/terminal">
+    <img alt="Terminal" width="26px" src="img/terminal.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/topics/bash">
     <img alt="Bash" width="26px" src="img/bash.png" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/topics/python3">
-    <img alt="Python3" width="26px" src="img/python.png" />
+  <a href="https://github.com/topics/git">
+    <img alt="Git" width="26px" src="img/git.png" />
   </a>
 </p>
 
 * <p>
-  <a href="https://github.com/topics/git">
-    <img alt="Git" width="26px" src="img/git.png" />
+  <a href="https://github.com/topics/python3">
+    <img alt="Python3" width="26px" src="img/python.png" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/topics/node">
-    <img alt="NodeJS" width="26px" src="img/nodejs.png" />
+  <a href="https://github.com/topics/kotlin">
+    <img alt="Kotlin" width="26px" src="img/kotlin.png" />
   </a>
 </p>
 
@@ -61,6 +61,9 @@
 </p>
 
 * <p>
+  <a href="https://github.com/topics/node">
+    <img alt="NodeJS" width="26px" src="img/nodejs.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/topics/react-native">
     <img alt="ReactNative" width="26px" src="img/react-native.png" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -73,7 +76,7 @@
   <summary>:zap: GitHub Stats</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sohil876&show_icons=true&hide_border=true&count_private=true&hide_rank=true&disable_animations=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohil876&show_icons=true&hide_border=true&langs_count=4&disable_animations=true&layout=compact&hide=forth,groff,m4,makefile,assembly,c,c%2B%2B,objective-c,php,lua&card_width=280&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohil876&show_icons=true&hide_border=true&langs_count=6&disable_animations=true&layout=compact&hide=forth,groff,m4,makefile,assembly,c,c%2B%2B,objective-c,php,lua,css&card_width=280&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
     </a>
 </details>
 
