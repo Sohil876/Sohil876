@@ -24,18 +24,24 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/topics/android">
     <img alt="Android" width="26px" src="img/android.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp
+  <a href="https://github.com/topics/terminal">
+    <img alt="Terminal" width="26px" src="img/terminal.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/topics/git">
+    <img alt="Git" width="26px" src="img/git.png" />
   </a>
 </p>
 
 * <p>
-  <a href="https://github.com/topics/terminal">
-    <img alt="Terminal" width="26px" src="img/terminal.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/topics/bash">
     <img alt="Bash" width="26px" src="img/bash.png" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/topics/git">
-    <img alt="Git" width="26px" src="img/git.png" />
+  <a href="https://github.com/topics/python3">
+    <img alt="Python3" width="26px" src="img/python.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/topics/kotlin">
+    <img alt="Kotlin" width="26px" src="img/kotlin.png" />
   </a>
 </p>
 
@@ -48,15 +54,6 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/topics/javascript">
     <img alt="JavaScript" width="26px" src="img/js.png" />
-  </a>
-</p>
-
-* <p>
-  <a href="https://github.com/topics/python3">
-    <img alt="Python3" width="26px" src="img/python.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/topics/kotlin">
-    <img alt="Kotlin" width="26px" src="img/kotlin.png" />
   </a>
 </p>
 
