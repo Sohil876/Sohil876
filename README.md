@@ -40,20 +40,20 @@
   <a href="https://github.com/topics/python3">
     <img alt="Python3" width="26px" src="img/python.png" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/topics/javascript">
+    <img alt="JavaScript" width="26px" src="img/js.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/topics/kotlin">
     <img alt="Kotlin" width="26px" src="img/kotlin.png" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/topics/html">
-    <img alt="HTML" width="26px" src="img/html.png" />
+  <a href="https://github.com/topics/node">
+    <img alt="NodeJS" width="26px" src="img/nodejs.png" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/topics/css">
-    <img alt="CSS" width="26px" src="img/css.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/topics/javascript">
-    <img alt="JavaScript" width="26px" src="img/js.png" />
+  <a href="https://github.com/topics/react-native">
+    <img alt="ReactNative" width="26px" src="img/react-native.png" />
   </a>
 </p>
 
