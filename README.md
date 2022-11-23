@@ -49,15 +49,6 @@
 </p>
 
 <p>
-  <a href="https://github.com/topics/node">
-    <img alt="NodeJS" width="26px" src="img/nodejs.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/topics/react-native">
-    <img alt="ReactNative" width="26px" src="img/react-native.png" />
-  </a>
-</p>
-
-<p>
 <details>
   <summary>:zap: GitHub Stats</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
