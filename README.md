@@ -15,7 +15,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <p>
-    <img alt="GitHub Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=Sohil876&show_icons=true&hide_border=true&count_private=true&hide_rank=true&disable_animations=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
-    <img alt="Top Languages" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohil876&show_icons=true&hide_border=true&langs_count=8&disable_animations=true&layout=compact&hide=forth,groff,m4,makefile,assembly,c,c%2B%2B,objective-c,php,css&card_width=280&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
+    <img alt="GitHub Stats" height=200 src="https://github-stats-extended.vercel.app/api?username=Sohil876&show_icons=true&hide_border=true&count_private=true&hide_rank=true&disable_animations=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
+    <img alt="Top Languages" height=200 src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sohil876&show_icons=true&hide_border=true&langs_count=8&disable_animations=true&layout=compact&hide=forth,groff,m4,makefile,assembly,c,c%2B%2B,objective-c,php,css&card_width=280&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
   </p>
 </details>
